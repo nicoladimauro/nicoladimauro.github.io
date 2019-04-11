@@ -1,2 +1,4 @@
-# a firts empty post
-alksòla ska ska ska skaska ks aksòakòls
+# The incremental log-sum-exp trick
+
+Often in machine learning it is necessary to compute the following quantity. We have a $n$-dimensional vector $\mathbf x$---usually log-probabilities--- and we want to calculate
+$$y =$$
