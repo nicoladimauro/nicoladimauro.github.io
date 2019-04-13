@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Entropy"
 title_separator          : "-"
 name                     : "Nicola Di Mauro"
-description              : "Computer Science & Machine Learning"
+description              : "Machine Learning & Computer Science"
 url                      : "http://http://nicoladimauro.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nicoladimauro/nicoladimauro.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Nicola Di Mauro"
   avatar           : "/assets/images/ndm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Machine Learning & Computer Science"
   location         : "University of Bari"
   email            :
   links:
