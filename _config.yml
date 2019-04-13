@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Nicola Di Mauro"
   avatar           : "/assets/images/ndm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning & Computer Science"
+  bio              : "Machine Learning and <br> Computer Science"
   location         : "University of Bari"
   email            :
   links:
